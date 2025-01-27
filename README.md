@@ -1,4 +1,4 @@
-![I am a Web Developer]([https://media.licdn.com/dms/image/v2/D5616AQFzq11Avgi7UA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727250175543?e=1732752000&v=beta&t=OuxxValgm2HKTh5hs7TsFWDMmw_giROS7-JiNYDmZCY](https://i.ibb.co.com/FB4nLxL/dp-bg.png))
+![I am a Web Developer](https://i.ibb.co/FB4nLxL/dp-bg.png)
 
 ### Hi there 👋, My Name is Asifur Rahman
 #### I am a Web Developer
