@@ -44,7 +44,14 @@
 
 ###
 
-<p align="left">📌 Learning Next.js to build faster, SEO-friendly web applications.<br>🏗 Developing a tailor shop website to create a smooth and user-friendly online experience.<br>🔧 Improving my backend skills, focusing on scalability and performance.<br>🏍 Passionate about bikes—love exploring and learning more about them!</p>
+<h2>📌 Current Focus & Interests:</h2>
+<ul>
+  <li><b>Learning Next.js</b> to build faster, SEO-friendly web applications.</li>
+  <li><b>Developing a tailor shop website</b> to create a smooth and user-friendly online experience.</li>
+  <li><b>Improving backend skills</b>, focusing on scalability and performance.</li>
+  <li>🏍 <b>Passionate about bikes</b>—love exploring and learning more about them!</li>
+</ul>
+
 
 ###
 
