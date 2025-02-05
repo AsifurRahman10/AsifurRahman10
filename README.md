@@ -96,7 +96,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=asifurRahman10&theme=dark" height="150" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AsifurRahman10&theme=dark" height="150" alt="GitHub Streak" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifurRahman10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
