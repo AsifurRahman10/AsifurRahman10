@@ -86,15 +86,18 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/asifur-rahman-shomik/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Shomikasifgmai1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/virus_smk3314" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <a href="https://facebook.com/asif.shomik">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://linkedin.com/in/asifur-rahman-shomik">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/Shomikasifgmai1">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" />
+</a>
+<a href="mailto:asifur.rahman4904@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+</a>
 </div>
 
 ###
