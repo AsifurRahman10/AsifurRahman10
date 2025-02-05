@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://i.ibb.co.com/gMhHbqys/164965523-3eced4c4-6020-467e-acde-f11b7900ad62.png" height="40" alt="firebase logo"  />
 </div>
 
 ###
