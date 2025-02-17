@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.ibb.co/bjBN8J6n/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" alt="Black and Yellow Web Developer Banner" />
+  <img src="https://i.ibb.co.com/Q30GvRwN/banner-updated.png" alt="Black and Yellow Web Developer Banner" />
 </div>
 
 ###
