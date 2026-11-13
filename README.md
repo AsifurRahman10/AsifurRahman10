@@ -67,7 +67,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" alt="stripe logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/sslcommerz/275CAB" height="40" alt="SSLCOMMERZ logo" />
 </div>
 
 ###
@@ -106,13 +105,15 @@
 
 ###
 
+
 <div align="center">
-<img src="[https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge\&logo=githubcopilot\&logoColor=white)" height="30" alt="GitHub Copilot" />
- <img width="8" />
- <img src="[https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)" height="30" alt="Cursor" />
- <img width="8" />
- <img src="[https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge\&logo=google\&logoColor=white)" height="30" alt="Google Antigravity" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" height="30" alt="GitHub Copilot" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" height="30" alt="Cursor" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Google Antigravity" />
 </div>
+
 
 ###
 
@@ -160,7 +161,5 @@ I use AI-powered development tools to improve productivity, accelerate developme
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsifurRahman10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsifurRahman10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AsifurRahman10" height="150" alt="GitHub Streak" />
 </div>
