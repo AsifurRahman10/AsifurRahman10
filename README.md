@@ -61,13 +61,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stripe/635BFF" height="40" alt="stripe logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="40" alt="cloudinary logo" />
+  <img src="https://cdn.simpleicons.org/sslcommerz/275CAB" height="40" alt="SSLCOMMERZ logo" />
 </div>
 
 ###
@@ -87,7 +87,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
@@ -101,6 +101,34 @@
 </div>
 
 ###
+
+<h2 align="center">🤖 AI-Assisted Development\</h2>
+
+###
+
+<div align="center">
+<img src="[https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge\&logo=githubcopilot\&logoColor=white)" height="30" alt="GitHub Copilot" />
+ <img width="8" />
+ <img src="[https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white](https://img.shields.io/badge/Cursor-000000?style=for-the-badge\&logo=cursor\&logoColor=white)" height="30" alt="Cursor" />
+ <img width="8" />
+ <img src="[https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge\&logo=google\&logoColor=white)" height="30" alt="Google Antigravity" />
+</div>
+
+###
+
+<p align="center">
+I use AI-powered development tools to improve productivity, accelerate development workflows, and solve complex engineering problems.
+</p>
+
+<ul>
+<li>⚡ \<b>Code Generation & Refactoring:\</b> Using AI to generate boilerplate, improve existing code, and build reusable components.\</li>
+<li>🐛 \<b>Debugging & Problem Solving:\</b> Identifying bugs, understanding errors, and exploring effective solutions.\</li>
+<li>🏗️ \<b>Architecture & Planning:\</b> Exploring system design, API structures, database schemas, and implementation strategies.\</li>
+<li>🧪 \<b>Testing & Code Review:\</b> Assisting with test cases, reviewing code, and identifying potential improvements.\</li>
+</ul>
+
+
+##
 
 <h2 align="center">🌱 Currently Exploring</h2>
 
