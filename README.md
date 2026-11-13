@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co.com/7tt6Vcb2/asifur-banner.png"
+    src="./github-banner.png"
     width="100%"
     alt="Asifur Rahman - Full Stack Developer"
   />
