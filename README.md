@@ -95,8 +95,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="pnpm logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
 </div>
 
 ###
@@ -118,14 +116,14 @@
 ###
 
 <p align="center">
-I use AI-powered development tools to improve productivity, accelerate development workflows, and solve complex engineering problems.
+  I use AI-powered development tools to improve productivity, accelerate development workflows, and solve complex engineering problems.
 </p>
 
 <ul>
-<li>⚡ \<b>Code Generation & Refactoring:\</b> Using AI to generate boilerplate, improve existing code, and build reusable components.\</li>
-<li>🐛 \<b>Debugging & Problem Solving:\</b> Identifying bugs, understanding errors, and exploring effective solutions.\</li>
-<li>🏗️ \<b>Architecture & Planning:\</b> Exploring system design, API structures, database schemas, and implementation strategies.\</li>
-<li>🧪 \<b>Testing & Code Review:\</b> Assisting with test cases, reviewing code, and identifying potential improvements.\</li>
+  <li>⚡ <b>Code Generation & Refactoring:</b> Using AI to generate boilerplate, improve existing code, and build reusable components.</li>
+  <li>🐛 <b>Debugging & Problem Solving:</b> Identifying bugs, understanding errors, and exploring effective solutions.</li>
+  <li>🏗️ <b>Architecture & Planning:</b> Exploring system design, API structures, database schemas, and implementation strategies.</li>
+  <li>🧪 <b>Testing & Code Review:</b> Assisting with test cases, reviewing code, and identifying potential improvements.</li>
 </ul>
 
 
