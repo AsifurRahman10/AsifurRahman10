@@ -1,8 +1,12 @@
 ###
 
-<div align="center">
-  <img src="https://i.ibb.co.com/7tt6Vcb2/asifur-banner.png" alt="Black and Yellow Web Developer Banner" />
-</div>
+<p align="center">
+  <img
+    src="https://i.ibb.co.com/7tt6Vcb2/asifur-banner.png"
+    width="100%"
+    alt="Asifur Rahman - Full Stack Developer"
+  />
+</p>
 
 ###
 
